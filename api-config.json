@@ -1,5 +1,13 @@
 {
   "apiUrl": "http://194.45.197.74:8080/auth.php",
-  "discordWebhook": "https://discord.com/api/webhooks/1464620170617028641/BIwT5XdgfPUkwewtuxhN4dSBlfgatDQC6v8EnBQKR0yzHOMCcBFHPJW0GVQnbT1VlWh2"
-  "discordWebhookSuccess": "https://discord.com/api/webhooks/1464620170617028641/BIwT5XdgfPUkwewtuxhN4dSBlfgatDQC6v8EnBQKR0yzHOMCcBFHPJW0GVQnbT1VlWh2"
+  "webhooks": {
+    "RL-scoreboard": {
+      "failure": "https://discord.com/api/webhooks/1521339820851597463/ikpa-gUmhse3nArxMXA7o8mf0Jz_h-w0YIgn8YKpW5bz6GrtJDc63T1n8ht2XkTp4Nbe",
+      "success": "https://discord.com/api/webhooks/1521339942087823504/6Q5zDHEtsXNjNbnWZNinblXdgdWeuqMzZbNqZE7GhY4C6JdhgXVqwfaTnNWaEBqchcwA"
+    },
+    "اسم-الريسورس-الجديد": {
+      "failure": "https://discord.com/api/webhooks/...",
+      "success": "https://discord.com/api/webhooks/..."
+    }
+  }
 }
